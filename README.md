@@ -1,4 +1,7 @@
-# test coverage for  [dav (v1.7.8)](https://github.com/gaye/dav#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-dav.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-dav) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-dav.svg)](https://travis-ci.org/npmtest/node-npmtest-dav)
+# npmtest-dav
+
+#### test coverage for  [dav (v1.7.8)](https://github.com/gaye/dav#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-dav.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-dav) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-dav.svg)](https://travis-ci.org/npmtest/node-npmtest-dav)
+
 #### WebDAV, CalDAV, and CardDAV client for nodejs and the browser
 
 [![NPM](https://nodei.co/npm/dav.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/dav)
